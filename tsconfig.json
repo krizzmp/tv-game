@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "strict": true,
+    "jsx": "react",
+    "target": "es2017",
+    "moduleResolution": "node",
+    "lib": [
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015.proxy"
+    ]
+  }
+}
